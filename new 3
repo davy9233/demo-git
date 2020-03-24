@@ -1,0 +1,3 @@
+db.collection.create.index({ }),{unique:true})
+
+db.collection.getindexex()
